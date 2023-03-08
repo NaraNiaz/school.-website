@@ -7,7 +7,8 @@
     <title>Nara.type</title>
 </head>
 <body>
-    <title> Loner Wolf--</title>
+    
+    
 </head>
 <body bgcolor="Pink">
     <center> <h1> The Matrix: <u>How to Escape the matrix</u></h1>
