@@ -12,7 +12,7 @@
 </head>
 <body bgcolor="Pink">
     <center> <h1> The Matrix: <u>How to Escape the matrix</u></h1>
-     <p><b> Today you will learn how to escape the matrix Stop 
+      Today you will learn how to escape the matrix Stop 
         1. You have to get rich using bussiness or any other way.
         2. Don't get obese and lay down and eat your crisps.
         3. Don't fear anything and when i say anything i mean anything.
@@ -22,10 +22,10 @@
 
 
 
-       <P> and also Allah is the only person to fear since you need to fearless and be strong and masculatinity is important and also don't be a mysognyst 
+        and also Allah is the only person to fear since you need to fearless and be strong and masculatinity is important and also don't be a mysognyst 
         and Anti-mysogynist is supported by matrix agents! also with that if you ain't respecting your parents you will get punishement and consenquences 
-    from the matrix so remember If you are a child,teenager adult centerenturian any type you can change your life 180 degrees to the better! </P>
-     </b></p></center>
+    from the matrix so remember If you are a child,teenager adult centerenturian any type you can change your life 180 degrees to the better! 
+    
 <hr color="Blue">
 <h2>write these two equations</h2>
 <h3> first equation: pythogryan theorm</h3>
